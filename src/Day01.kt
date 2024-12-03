@@ -53,5 +53,5 @@ fun main() {
     println("Test result part 2: $testResult2")
     check(testResult2 == 31)
 
-    println("Solution part 1:    ${part2(input)}")
+    println("Solution part 2:    ${part2(input)}")
 }
